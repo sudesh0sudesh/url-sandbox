@@ -1,6 +1,6 @@
-importlib-metadata==4.13.0
+importlib-metadata==6.6.0
 redis
-pymongo==3.12.1
+pymongo==4.3.3
 termcolor
 psutil
 celery
