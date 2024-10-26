@@ -17,3 +17,5 @@ redis
 celery
 beautifulsoup4
 validator_collection
+flask-limiter
+flask-wtf
